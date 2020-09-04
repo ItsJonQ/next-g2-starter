@@ -8,6 +8,16 @@
     "start": "next start"
   },
   "dependencies": {
+    "@wp-g2/a11y": "latest",
+    "@wp-g2/animations": "latest",
+    "@wp-g2/components": "latest",
+    "@wp-g2/context": "latest",
+    "@wp-g2/hint": "latest",
+    "@wp-g2/icons": "latest",
+    "@wp-g2/protokit": "latest",
+    "@wp-g2/styles": "latest",
+    "@wp-g2/utils": "latest",
+    "create-emotion-server": "10.0.27",
     "next": "9.3.5",
     "react": "16.13.1",
     "react-dom": "16.13.1"
