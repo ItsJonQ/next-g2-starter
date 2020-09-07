@@ -6,7 +6,7 @@ Kick off your prototype with this G2 starter. This starter ships with the main [
 
 1.  **Create a Next.js site.**
 
-    Use the Gatsby CLI to create a new site, specifying the default starter.
+    Use the Next.js CLI to create a new site, specifying the default starter.
 
     ```shell
     # create a new Next.js site with G2
