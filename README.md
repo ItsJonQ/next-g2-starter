@@ -10,7 +10,7 @@ Kick off your prototype with this G2 starter. This starter ships with the main [
 
     ```shell
     # create a new Next.js site with G2
-    npx create-next-app my-site --use-npm --example "https://github.com/itsjonq/next-starter-g2/"
+    npx create-next-app my-site --use-npm --example "https://github.com/itsjonq/next-g2-starter/"
     ```
 
 1.  **Start developing.**
