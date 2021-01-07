@@ -1,4 +1,4 @@
-import Document, { Head, Main, NextScript } from 'next/document';
+import Document, { Html, Head, Main, NextScript } from 'next/document';
 import createEmotionServer from 'create-emotion-server';
 import { cache } from '@wp-g2/styles';
 
@@ -25,13 +25,13 @@ export default class MyDocument extends Document {
 
 	render() {
 		return (
-			<html>
+			<Html lang="en">
 				<Head />
 				<body>
 					<Main />
 					<NextScript />
 				</body>
-			</html>
+			</Html>
 		);
 	}
 }
